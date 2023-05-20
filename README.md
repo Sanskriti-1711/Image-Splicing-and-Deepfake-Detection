@@ -10,4 +10,4 @@ Deepfake is a technique for human image synthesis based on neural network tools 
 <br>•	To develop a user-friendly GUI i.e a simple UI/UX where user can easily add the image and check the results.
 
 
-<br>Source Code: [Code](https://mega.nz/folder/hk400IRD#YTPQEPy42bEUGgePB_mOPw)
+<br>Source Code: [Imagesplicing_and_Deepfakedetection](https://mega.nz/folder/hk400IRD#YTPQEPy42bEUGgePB_mOPw)
